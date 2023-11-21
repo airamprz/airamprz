@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="tu_imagen.jpg" alt="Airam" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover; margin-bottom: 20px;">
-  <div align="center">¡Hola! Soy Airam, un Full Stack Developer apasionado por la creación de soluciones innovadoras. 🚀</div>
+  <img src="https://images.unsplash.com/photo-1604964432806-254d07c11f32?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Airam" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover; margin-bottom: 20px;">
+  <h1 align="center">¡Hola! Soy Airam, un Full Stack Developer apasionado por la creación de soluciones innovadoras. 🚀</h1>
 </div>
 
 #### Acerca de mí
