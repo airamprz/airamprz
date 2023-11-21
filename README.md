@@ -1,6 +1,18 @@
 <div align="center">
-  <img src="https://github.com/airamprz/airamprz/raw/main/avatargithub.png" alt="Mi Avatar GitHub" style="border-radius: 50%; width: 350px; height: 350px; object-fit: cover; margin-bottom: 20px;">
+  <img src="https://github.com/airamprz/airamprz/raw/main/avatargithub.png" alt="Mi Avatar GitHub" style="border-radius: 50%; width: 275px; height: 275px; object-fit: cover; margin-bottom: 20px;">
   <h1 align="center" style="margin: 0;">¡Hola! Soy Airam, un Full Stack Developer apasionado por la creación de soluciones innovadoras. 🚀</h1>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/tuusuario" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:tucorreo@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://tuportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio">
+  </a>
 </div>
 
 <h2> Acerca de mí </h2>
