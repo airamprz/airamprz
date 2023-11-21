@@ -5,7 +5,7 @@
 
 
 
-#### Acerca de mí
+#### <h2> Acerca de mí </h2>
 
 - 🌍 Vivo en Lanzarote, Islas Canarias.
 - 🗣️ Hablo Español de forma nativa e inglés de forma fluida.
@@ -13,7 +13,7 @@
 
 ---
 
-#### Idiomas y herramientas
+#### <h2> Idiomas y herramientas </h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React">
