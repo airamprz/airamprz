@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://images.unsplash.com/photo-1604964432806-254d07c11f32?q=80&w=150&h=150&fit=crop&auto=format&crop=focalpoint&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Airam" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover; margin-bottom: 20px;">
   <h1 align="center">¡Hola! Soy Airam, un Full Stack Developer apasionado por la creación de soluciones innovadoras. 🚀</h1>
+</div>
 
 <h2> Acerca de mí </h2>
 
@@ -8,7 +9,7 @@
 - 🗣️ Hablo Español de forma nativa e inglés de forma fluida.
 - 🔍 Actualmente estoy en busca de nuevas oportunidades.
 
-</div>
+
 
 <h2> Idiomas y herramientas </h2>
 
