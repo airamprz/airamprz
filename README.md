@@ -1,4 +1,6 @@
-### <div align="center">¡Hola! Soy Airam, un Full Stack Developer apasionado por la creación de soluciones innovadoras. 🚀</div>
+### <marquee behavior="scroll" direction="right">
+  <h2>¡Hola! Soy Airam, un Full Stack Developer apasionado por la creación de soluciones innovadoras. 🚀</h2>
+</marquee>
 
 ---
 
