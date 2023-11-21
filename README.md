@@ -3,15 +3,12 @@
   <h1 align="center">¡Hola! Soy Airam, un Full Stack Developer apasionado por la creación de soluciones innovadoras. 🚀</h1>
 </div>
 
-
-
 #### <h2> Acerca de mí </h2>
 
 - 🌍 Vivo en Lanzarote, Islas Canarias.
 - 🗣️ Hablo Español de forma nativa e inglés de forma fluida.
 - 🔍 Actualmente estoy en busca de nuevas oportunidades.
 
----
 
 #### <h2> Idiomas y herramientas </h2>
 
