@@ -1,8 +1,7 @@
-###<div align="center">
+<div align="center">
   <img src="tu_imagen.jpg" alt="Airam" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover; margin-bottom: 20px;">
   <div align="center">¡Hola! Soy Airam, un Full Stack Developer apasionado por la creación de soluciones innovadoras. 🚀</div>
 </div>
----
 
 #### Acerca de mí
 
