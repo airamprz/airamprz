@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://static.vecteezy.com/system/resources/previews/006/487/912/original/hacker-avatar-ilustration-free-vector.jpg" alt="Airam" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover; margin-bottom: 20px;">
+  ![Mi Avatar GitHub](https://github.com/airamprz/airamprz/blob/main/avatargithub.png?raw=true)
   <h1 align="center" style="margin: 0;">¡Hola! Soy Airam, un Full Stack Developer apasionado por la creación de soluciones innovadoras. 🚀</h1>
 </div>
 
