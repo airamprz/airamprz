@@ -1,9 +1,7 @@
 <div align="center">
   <img src="https://github.com/airamprz/airamprz/raw/main/avatargithub.png" alt="Mi Avatar GitHub" style="border-radius: 50%; width: 275px; height: 275px; object-fit: cover; margin-bottom: 20px;">
   <h1 align="center" style="margin: 0;">¡Hola! Soy Airam, un Full Stack Developer apasionado por la creación de soluciones innovadoras. 🚀</h1>
-</div>
 
-<div align="center">
   <a href="https://www.linkedin.com/in/airam-p%C3%A9rez/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
