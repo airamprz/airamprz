@@ -18,7 +18,7 @@
 <h2> Acerca de mí </h2>
 
 - 🌍 Vivo en Lanzarote, Islas Canarias.
-- 🗣️ Hablo Español de forma nativa e inglés de forma fluida.
+- 🗣️ Hablo Español de forma nativa y tengo un buen dominio del Inglés.
 - 🔍 Actualmente estoy en busca de nuevas oportunidades.
 
 
