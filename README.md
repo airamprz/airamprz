@@ -20,7 +20,7 @@
 - 🔍 Actualmente estoy en busca de nuevas oportunidades.
 
 
-<h2> Idiomas y herramientas </h2>
+<h2> Herramientas </h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React">
