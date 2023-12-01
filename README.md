@@ -12,8 +12,8 @@
   <a href="https://tuportfolio.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio">
   </a>
-</div>
 -->
+</div>
 
 <h2> Acerca de mí </h2>
 
