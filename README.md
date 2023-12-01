@@ -8,10 +8,12 @@
   <a href="mailto:airamprz509@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
+<!--
   <a href="https://tuportfolio.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio">
   </a>
 </div>
+-->
 
 <h2> Acerca de mí </h2>
 
